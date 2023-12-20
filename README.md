@@ -20,6 +20,6 @@
  
  ```
   + I have created an empty folder in my file explorer and opened the folder in CMD. After opened CMD
-  i just copy pasted and executed the lines one by one.
-   + This First line `echo "# class-1" >> README.md` created an README.md file with the
+  I just copy pasted and executed the lines one by one.
+    + This First line `echo "# class-1" >> README.md` created an README.md file with the
  content 1`"# class-1"`.
